@@ -1,4 +1,4 @@
-![logo](https://github.com/sudeep1046/sudeep1046/blob/main/github-universe-1920x768.png)
+![logo](https://github.com/sudeep1046/sudeep1046/blob/main/Untitled%20design.mp4)
 <h1 align="center">Hi 👋, I'm Sudeep Pramanik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
